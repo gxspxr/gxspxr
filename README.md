@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Gaspar</h1>
 <h3 align="center">Soy un desarrollador Full stack orientado al Front-end ✨</h3>
 
-- 🔭Actualmente estoy trabajando en [Mi portfolio]
+- 🔭Actualmente estoy trabajando en mi portfolio
 
 - 🌱 Actualmente estoy aprendiendo **Next.js y reforzando Tailwind**
 
