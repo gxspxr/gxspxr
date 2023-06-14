@@ -3,7 +3,7 @@
 
 - 🔭Actualmente estoy trabajando en mi portfolio
 
-- 🌱 Actualmente estoy aprendiendo **Next.js y reforzando Tailwind**
+- 🌱 Actualmente estoy aprendiendo **TypeScript y reforzando Tailwind**
 
 - 📫 Por que medio contactarme? **sernagas1234@gmail.com**
 
