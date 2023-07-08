@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Gaspar</h1>
+<h1 align="center">Hola 👋, me llamo Gaspar</h1>
 <h3 align="center">Soy un desarrollador Full stack orientado al Front-end ✨</h3>
 
 - 🔭Actualmente estoy trabajando en mi portfolio
