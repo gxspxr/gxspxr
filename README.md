@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Gaspar</h1>
-<h3 align="center">Soy un desarrollador Full stack orientado al Front-end ✨</h3>
+<h3 align="center">Soy un desarrollador Front-end ✨</h3>
 
-- 🔭Actualmente estoy trabajando en mi portfolio
+- 🔭Actualmente estoy trabajando en Makisan Tech
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript y reforzando Tailwind**
+- 🌱 Actualmente estoy aprendiendo **TypeScript y Next.js**
 
 - 📫 Por que medio contactarme? **sernagas1234@gmail.com**
 
