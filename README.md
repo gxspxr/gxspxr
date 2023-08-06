@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript y Next.js**
 
-- 📫 Por que medio contactarme? **sernagas1234@gmail.com**
+- 📫 Por que medio contactarme? **gaspar.serna.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
