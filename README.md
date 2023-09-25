@@ -5,7 +5,7 @@
 
 - 🔭Actualmente estoy trabajando en **Makisan Tech**
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript y React Native**
+- 🌱 Actualmente estoy aprendiendo **Next.js y React Native**
 
 - 💼Mi [Portfolio](https://portfolio-gxspxr.vercel.app/)
 
