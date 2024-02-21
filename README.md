@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxspxr&label=Profile%20views&color=0e75b6&style=flat" alt="gxspxr" /> </p>
 
-- 🔭Actualmente estoy trabajando en **Makisan Tech**
+- 🔭Actualmente estoy trabajando en **EcoAdvisor**
 
 - 🌱 Actualmente estoy aprendiendo **Next.js y React Native**
 
